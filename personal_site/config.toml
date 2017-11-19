@@ -252,6 +252,11 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 [[menu.main]]
+  name = "Resume"
+  url = "/files/resume.pdf"
+  weight = 5
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
