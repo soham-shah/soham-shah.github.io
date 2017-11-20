@@ -27,14 +27,18 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
 
-[[filter]]
-  name = "Other"
-  tag = ".demo"
+
+#[[filter]]
+#  name = "Data Visualization"
+#  tag = ".Data-Visualization"
+
+#[[filter]]
+#  name = "Data Mining"
+#  tag = ".Data-Mining"
+
+#[[filter]]
+#  name = "Other"
+#  tag = ".demo"
 
 +++
-
